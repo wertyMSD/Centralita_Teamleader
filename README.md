@@ -28,11 +28,9 @@ https://github.com/wertyMSD/Centralita_Teamleader
 - Get valid credentials [Api Teamleader](https://wertymsd.github.io/Centralita_Teamleader/100_Proyectos/centralita/centralita%20TeamLeader/espa%C3%B1ol/Api%20Teamleader.html)
 - Fill in [Registration form](https://forms.office.com/r/5k9k54cugV)
 
+Comentarios / Comments :
+- 
 
-
-# Comentarios / Comments
-
------
 Tu opinión es *importante*, dinos qué quieres 
 ==conseguir con esta CENTRALITA== 
 y te ayudamos con ello desde [AlcaTic | Soluciones para hacer más fácil la gestión de tu empresa](https://www.alcatic.com/)
@@ -40,7 +38,6 @@ y te ayudamos con ello desde [AlcaTic | Soluciones para hacer más fácil la ges
 Your opinion is *important*, tell us what you want 
 ==to achieve with this CENTRALITA== 
 and we will help you with it from [AlcaTic | Solutions to make easier the management of your company](https://www.alcatic.com/)
-
 
 
 # Video de la funcionalidades / Functionality video
