@@ -43,4 +43,4 @@ and we will help you with it from [AlcaTic | Solutions to make easier the manage
 
 
 # Video de la funcionalidades / Functionality video
-![]https://github.com/wertyMSD/Centralita_Teamleader/blob/master/proceso.gif
+![](https://github.com/wertyMSD/Centralita_Teamleader/blob/master/proceso.gif)
