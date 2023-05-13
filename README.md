@@ -32,6 +32,7 @@ https://github.com/wertyMSD/Centralita_Teamleader
 
 # Comentarios / Comments
 
+-----
 Tu opinión es *importante*, dinos qué quieres 
 ==conseguir con esta CENTRALITA== 
 y te ayudamos con ello desde [AlcaTic | Soluciones para hacer más fácil la gestión de tu empresa](https://www.alcatic.com/)
