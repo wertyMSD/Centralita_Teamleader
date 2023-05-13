@@ -1,8 +1,8 @@
 
 # Visión general / Overview
 
-
-    >*BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA TEAMLEADER*
+## *BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA TEAMLEADER*
+    >
     La integración de Teamleader le aporta mayores beneficios en sus comunicaciones porque le permite mejorar 
     la gestión de tiempo y de los recursos. Esta integración de la centralita con el CRM TEAMLEADER destaca por 
     la marcación de un solo clic al lanzar las llamadas, registro automático con la información detallada de las 
@@ -10,7 +10,8 @@
     las comunicaciones. Apertura automatica de la ficha de teamleader con contenga el numero entrante o saliente.
     Consulta de la base de datos de empresa y relleno de datos comerciales de forma rapida y sencilla.
  -----
-    >*WELCOME TO TEAMLEADER SWITCHBOARD DOCUMENTATION*
+## *WELCOME TO TEAMLEADER SWITCHBOARD DOCUMENTATION*
+    >
     The integration of Teamleader brings you greater benefits in your communications because it allows you to improve 
     time and resource management. This integration of the switchboard with TEAMLEADER CRM features one-click dialing 
     when launching calls, automatic logging of call details, times and more, ensuring you have all customer data at 
@@ -51,9 +52,11 @@ https://github.com/wertyMSD/Centralita_Teamleader
 
 Tu opinión es *importante*, dinos qué quieres 
 ==conseguir con esta CENTRALITA== 
-y te ayudamos con ello desde [AlcaTic | Soluciones para hacer más fácil la gestión de tu empresa](https://www.alcatic.com/)
+y te ayudamos con ello desde 
+[AlcaTic | Soluciones para hacer más fácil la gestión de tu empresa](https://www.alcatic.com/)
 ------
 Your opinion is *important*, tell us what you want 
 ==to achieve with this CENTRALITA== 
-and we will help you with it from [AlcaTic | Solutions to make easier the management of your company](https://www.alcatic.com/)
+and we will help you with it from 
+[AlcaTic | Solutions to make easier the management of your company](https://www.alcatic.com/)
 
