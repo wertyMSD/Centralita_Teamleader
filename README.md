@@ -43,3 +43,4 @@ and we will help you with it from [AlcaTic | Solutions to make easier the manage
 
 
 # Video de la funcionalidades / Functionality video
+![[proceso.gif]]
