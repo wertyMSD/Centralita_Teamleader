@@ -4,7 +4,7 @@
 ## *BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA TEAMLEADER*
     >
     La integración de Teamleader le aporta mayores beneficios en sus comunicaciones porque le permite mejorar 
-    la gestión de tiempo y de los recursos. Esta integración de la centralita con el CRM TEAMLEADER destaca por 
+    la ges./tión de tiempo y de los recursos. Esta integración de la centralita con el CRM TEAMLEADER destaca por 
     la marcación de un solo clic al lanzar las llamadas, registro automático con la información detallada de las 
     llamadas, hs y mucho más, que garantiza que tenga todos los datos de los clientes a mano y sea más efectiva 
     las comunicaciones. Apertura automatica de la ficha de teamleader con contenga el numero entrante o saliente.
