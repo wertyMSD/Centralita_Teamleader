@@ -6,11 +6,11 @@ var mermaid_enabled = 1;
 var toc_pane_div = "right_pane_content";
 var dir_index_pane_div = "";
 var html_url_prefix = "../..";
-var CONFIGURED_HTML_URL_PREFIX = "";
+var CONFIGURED_HTML_URL_PREFIX = "Centralita_Teamleader";
 var RELATIVE_PATHS = 1;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '311891394000816267104780125498763401079'                       // used to check whether the localStorage data is stale
+var gzip_hash = '254378588547373074440550934842306489903'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
