@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="api teamleader">
+                <meta name="node_id" content="creacion nuevo registros teamleader">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="../../../../favicon.ico" />
 
@@ -47,7 +47,7 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'api teamleader';
+                        const CURRENT_NODE = 'creacion nuevo registros teamleader';
                         const HTML_URL_PREFIX = '../../../..';
                         const PAGE_DEPTH = 4;
                 </script>
@@ -204,82 +204,46 @@
                 <div style="width:100%; text-align: right;display: block;margin: 0.5rem;">
                     <div style="flex:1;display: none;"></div>
                     <div class="breadcrumbs" style="flex:1 ;padding: 0.5rem; width: fit-content;display: inline;border-radius: 0.2rem;">
-                        <a href="./" style="color: rgb(var(--normal-text-color));">Home</a> / <span style="color: #666;">..</span> / <a href="../../../../100_Proyectos/centralita/centralita TeamLeader/español/Api Teamleader.html" style="color: var(--normal-text-color);" >..</a> / <span style="color: #666;">100_Proyectos</span> / <span style="color: #666;">centralita</span> / <span style="color: #666;">centralita TeamLeader</span> / <span style="color: #666;">español</span> / <a href="../../../../100_Proyectos/centralita/centralita TeamLeader/español/Api Teamleader.html" >Api Teamleader</a>
+                        <a href="../../../../" style="color: rgb(var(--normal-text-color));">Home</a> / <span style="color: #666;">..</span> / <a href="../../../../MANUALES/centralita/centralita TeamLeader/español/Creacion nuevo registros Teamleader.html" style="color: var(--normal-text-color);" >..</a> / <span style="color: #666;">MANUALES</span> / <span style="color: #666;">centralita</span> / <span style="color: #666;">centralita TeamLeader</span> / <span style="color: #666;">español</span> / <a href="../../../../MANUALES/centralita/centralita TeamLeader/español/Creacion nuevo registros Teamleader.html" >Creacion nuevo registros Teamleader</a>
                     </div>
                 </div>
-<div class="content"><h1 id="video-proceso-integracion-teamleader-centralita">Video proceso integración teamleader centralita</h1>
+<embeddedtitle>Creacion nuevo registros Teamleader</embeddedtitle>
+<div class="content"><p><img alt="" src="../../../../MANUALES/centralita/adjuntos/pantalla%20alta%20nuevo%20registro%20centralita.png" />   </p>
+<h1 id="redes-busqueda-adicional">Redes Búsqueda adicional</h1>
 <div class="toc">
 <ul>
-<li><a href="#video-proceso-integracion-teamleader-centralita" class="anchor-link">Video proceso integración teamleader centralita</a></li>
-<li><a href="#pasos-a-seguir" class="anchor-link">PASOS A SEGUIR</a><ul>
-<li><a href="#gestion-de-la-integracion-en-teamleader" class="anchor-link">Gestión de la integración en teamleader</a><ul>
-<li><a href="#datos-a-rellenar-en-la-pantalla" class="anchor-link">Datos a rellenar en la pantalla</a></li>
-<li><a href="#configuracion-centralita" class="anchor-link">Configuración Centralita</a></li>
-</ul>
-</li>
-</ul>
-</li>
+<li><a href="#redes-busqueda-adicional" class="anchor-link">Redes Búsqueda adicional</a></li>
+<li><a href="#empresa-vinculada" class="anchor-link">Empresa Vinculada</a></li>
+<li><a href="#video-de-proceso" class="anchor-link">Video de proceso</a></li>
 </ul>
 </div>
-<p>Es necesario generar un código de enlace con teamleader desde la gestión de API de teamleader <br />
-Puede ver el siguiente video para visualizar los paso a seguir: <br />
-<a href="https://www.youtube.com/watch?v=NtNTKFzflws" class="external-link">REGISTRO API PARA TEAMLEADER - YouTube</a>   </p>
-<h1 id="pasos-a-seguir">PASOS A SEGUIR</h1>
-<h2 id="gestion-de-la-integracion-en-teamleader">Gestión de la integración en teamleader</h2>
-<p>El link para crear el usuario y password de APi, gestiona tus integraciones activas de Teamleader Focus desde aquí. <br />
-<a href="https://marketplace.focus.teamleader.eu/es/es/gestion" class="external-link">Marketplace Teamleader Focus</a>   </p>
-<h3 id="datos-a-rellenar-en-la-pantalla">Datos a rellenar en la pantalla</h3>
-<div class="callout callout-warning active" rasa="1">
-<div class="callout-title ">
-<div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
-</div>
-<div class="callout-title-name">Warning
-</div>
-</div>
-<div class="callout-content">
-<p>Rellene <em>Validar URIs de redirección (Redirect URIs)</em>
-exactamente con el siguiente codigo:</p>
-</div>
-</div>
-<div class="lang-Validar URIs de redirección (Redirect URIs)">
-```Validar URIs de redirección (Redirect URIs)
-http://127.0.0.1:5000/
-```
-</div>
-
-<p><em>ANOTE</em>  <br />
-Credenciales OAuth2   </p>
-<p>El <em>client ID</em> y el <em>secret</em> son obligatorios para poder autenticar a los usuarios y comunicarse con la API de Teamleader Focus. Mantén tu secret oculto. <a href="https://developer.teamleader.eu/#/introduction/oauth-2" class="external-link">Leer más sobre OAuth 2.</a>   </p>
-<p><em>Client ID</em>    <em>Client secret</em>   </p>
-<h3 id="configuracion-centralita">Configuración Centralita</h3>
-<p>Copie de ventana de integración de teamleader   </p>
+<p>Tiene la siguientes funcionalidades  <br />
+<em> Búsqueda en <img alt="" src="../../../../MANUALES/centralita/adjuntos/Logo%20whatsapp.png" /> y <img alt="" src="../../../../MANUALES/centralita/adjuntos/Logo%20google.png" /> de el teléfono de la búsqueda inicial <br />
+</em> El Contacto usara Nombre y Apellido para búsqueda en <img alt="" src="../../../../MANUALES/centralita/adjuntos/Logo%20linkedin.png" />   </p>
+<h1 id="empresa-vinculada">Empresa Vinculada</h1>
+<p><em>Si activa el sistema de REGISTRO usando IA</em>.   </p>
 <div class="callout callout-alert active" rasa="1">
 <div class="callout-title ">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><line x1="18" y1="2" x2="22" y2="6"></line><path d="M7.5 20.5L19 9l-4-4L3.5 16.5 2 22z"></path></svg>
 </div>
-<div class="callout-title-name">datos generados por TEAMLEADER <br />
+<div class="callout-title-name">Alert
 </div>
 </div>
 <div class="callout-content">
-<ul>
-<li><em>Client ID</em></li>
-<li><em>Client secret</em></li>
-</ul>
+<p>El sistema de forma automatica buscara en internet las empresas que contenga el nombre que&gt; se escribe en <em>EMPRESA</em>.</p>
 </div>
 </div>
-<p>Introducirlo al incial la aplicacion.   </p>
-<blockquote>
-<p><strong>obsidian-html error:</strong> Could not find page Pantalla configuracion centralita teamleader .</p>
-</blockquote></div>
+<video controls><source src="../../../../MANUALES/centralita/adjuntos/Video%20creacion%20centralita%20teamleader.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+<p>Puede enlazar campos libres de <a href="../../../../000_W/000%20-%20SAGE50/ADDON/ALCATIC/CRM%20TEAMLEADER.html#español">CRM TEAMLEADER#Español</a> con los campos disponibles en <a href="../../../../not_created.html" class="nonexistent-link">IA 1</a> <br />
+<a href="../../../../MANUALES/centralita/centralita%20TeamLeader/espa%C3%B1ol/Pantalla%20enlaces%20campos%20libres.html">MANUALES/centralita/centralita TeamLeader/español/Pantalla enlaces campos libres</a>   </p>
+<h1 id="video-de-proceso">Video de proceso</h1>
+<video controls><source src="../../../../MANUALES/centralita/adjuntos/ALTA%20NUEVO.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
 <ul>
-	<li><a class="backlink" href="../../../../100_Proyectos/centralita/centralita TeamLeader/español/Inicio rapido Centralita Teamleader.html">inicio rapido centralita teamleader</a></li>
-	<li><a class="backlink" href="../../../../100_Proyectos/centralita/centralita TeamLeader/español/Centralita CRM TEAMLEADER.html">centralita crm teamleader</a></li>
-	<li><a class="backlink" href="../../../../100_Proyectos/centralita/centralita TeamLeader/español/Pantalla configuracion centralita teamleader.html">pantalla configuracion centralita teamleader</a></li>
-	<li><a class="backlink" href="../../../../100_Proyectos/centralita/centralita TeamLeader/español/Menu Aplicacion centralita teamleader.html">menu aplicacion centralita teamleader</a></li>
-	<li><a class="backlink" href="../../../../100_Proyectos/centralita/centralita TeamLeader/ingles/Teamleader control panel configuration screen.html">teamleader control panel configuration screen</a></li>
+	<li><a class="backlink" href="../../../../MANUALES/centralita/centralita TeamLeader/español/Centralita CRM TEAMLEADER.html">centralita crm teamleader</a></li>
 </ul>
 </div>
 
